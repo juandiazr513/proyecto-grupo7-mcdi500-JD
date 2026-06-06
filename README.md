@@ -1,6 +1,4 @@
-Bien. Ahora selecciona todo el texto que hay en el editor (Ctrl+A) y bórralo.
-Luego copia y pega esto:
-markdown# Proyecto Grupo 7 — MCDI500
+# Proyecto Grupo 7 — MCDI500
 ## Factores socioeconómicos y de preparación previa asociados al rendimiento académico
 
 ---
